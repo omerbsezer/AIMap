@@ -31,9 +31,12 @@ Artificial intelligence is a very broad and evolving field of computer science. 
         * Deep Belief Nets
         * Autoencoders
 * Unsupervised Learning
-  * Clustering
+  * [Clustering](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
      * KMeans
-     * DBSCAN
+     * DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+     * Mean-Shift Clustering
+     * Expectation–Maximization (EM) Clustering using Gaussian Mixture Models (GMM)
+     * Agglomerative Hierarchical Clustering
   * Self Organizing Maps
   * Generative adversarial networks (GANs)
  * Reinforcement Learning
