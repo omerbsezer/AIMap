@@ -1,4 +1,4 @@
-# AIM: AI Map (Map of Artificial Intelligence)
+# AIM: AI Map (Map of Artificial Intelligence Developments)
 
 Artificial intelligence is a very broad and evolving field of computer science. I am aiming to map this developing area with AI Map repository. Over time, this repo will be updated and expanded. We are waiting for your contributions.
 
