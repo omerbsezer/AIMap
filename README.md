@@ -44,7 +44,7 @@ Artificial intelligence is a very broad and evolving field of computer science. 
      * Value-Based
      * Policy-Based
      * Model-Based
-     * Deep Reinforcement Learning
+     * Deep Reinforcement Learning: [BerkeleyDeepRLBootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 ## Machine Learning Algorithms:
 
@@ -63,7 +63,8 @@ Artificial intelligence is a very broad and evolving field of computer science. 
     * Neural Style Transfer
  * Natural Language Processing:
  * Robotics:
- * Artificial General Intelligence:
+    * Deep Reinforcement Learning
+ * Artificial General Intelligence: [MITCourse](https://agi.mit.edu/)
 
 ## Machine Learning Libraries and Tools:
 
