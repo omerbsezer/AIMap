@@ -14,7 +14,7 @@ Artificial intelligence is a very broad and evolving field of computer science. 
   * Boosting
   * Ensemble Methods
   * Random Forest Trees
-  * [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  * [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): "are computing systems vaguely inspired by the biological neural networks that constitute animal brains"
        * Multi Layer Perceptron
        * Back Propagation
        * Deep Neural Networks
@@ -70,8 +70,20 @@ Artificial intelligence is a very broad and evolving field of computer science. 
 
 * [Scikit Learn](http://scikit-learn.org/): ML library for Python
 * [Tensorflow](https://www.tensorflow.org/): An open source machine learning framework with Python
+* [Keras](https://keras.io/): "The Python Deep Learning library"
 * [Pytorch](https://pytorch.org/):  is a deep learning framework with Python
 * [Caffe](http://caffe.berkeleyvision.org/): is a deep learning framework
 * [Theano](http://deeplearning.net/software/theano/):  "is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently".
-* [DeepLearning4j](https://deeplearning4j.org/) : "Open-Source, Distributed, Deep Learning Library for the JVM"
+* [DeepLearning4j](https://deeplearning4j.org/) : "Open-Source, Distributed, Deep Learning Library for the JVM, Java"
 * [DarkNet](https://pjreddie.com/darknet/): "Open Source Neural Networks in C"
+
+## Awesome Github Repos Related ML:
+* [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): Tools, Libraries, etc..
+* [josephmisiti/awesome-machine-learning/blob/master/courses.md](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md): ML Courses.
+* [josephmisiti/awesome-machine-learning/blob/master/books.md](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md): ML Books.
+* [josephmisiti/awesome-machine-learning/blob/master/blogs.md](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md): DataScience/Statistics, ML Blogs and Podcasts.
+* [sdukshis/awesome-ml](https://github.com/sdukshis/awesome-ml): Papers, blogposts, datasets.
+* [RatulGhosh/awesome-machine-learning](https://github.com/RatulGhosh/awesome-machine-learning): ML Courses.
+* [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl): Reinforcement Learning Codes, Courses, Books, Papers, Applications, Tutorials, Demos, Platforms, etc.
+* [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning): Deeplearning Courses, Lectures, Papers, Tuts, Researchers, Websites, Datasets, Frameworks, etc..
+* [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers): Most Cited Deep Learning Papers.
