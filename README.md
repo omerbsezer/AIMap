@@ -16,20 +16,20 @@ Artificial intelligence is a very broad and evolving field of computer science. 
   * Random Forest Trees
   * [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): "are computing systems vaguely inspired by the biological neural networks that constitute animal brains"
        * Multi Layer Perceptron
-       * Back Propagation
        * Deep Neural Networks
            * Deep Multi Layer Perceptron
-           * Recurrent Neural Networks
            * Convolutional Neural Networks
               * Le-Nets
               * AlexNets
               * VGG
               * Residual Nets
               * Inception Nets
-        * Long Short Term Memory
-        * Restricted Boltzmann Machines
-        * Deep Belief Nets
-        * Autoencoders
+           * Recurrent Neural Networks
+           * Long Short Term Memory
+           * Gated Recurrent Neural Nets
+           * Restricted Boltzmann Machines
+           * Deep Belief Nets
+           * Autoencoders
 * Unsupervised Learning
   * [Clustering](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
      * KMeans
@@ -61,7 +61,9 @@ Artificial intelligence is a very broad and evolving field of computer science. 
        * FaceNet
        * DeepFace
     * Neural Style Transfer
- * Natural Language Processing:
+ * Sequence Models:
+    * Sampling & Sequence Generation
+    * Natural Language Processing
  * Robotics:
     * Deep Reinforcement Learning
  * Artificial General Intelligence: [MITCourse](https://agi.mit.edu/)
