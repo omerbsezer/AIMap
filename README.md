@@ -63,10 +63,17 @@ Artificial intelligence is a very broad and evolving field of computer science. 
     * Neural Style Transfer
  * Sequence Models:
     * Sampling & Sequence Generation
-    * Natural Language Processing
+    * [Natural Language Processing](https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795):
+       * [Word Embeddings](https://machinelearningmastery.com/what-are-word-embeddings/)
+       * TF-IDF
+       * [Word2vec](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+       * [Skip-gram](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+       * GloVe: Global Vectors for word representation
+       * FastText (Enriching Word Vectors with Subword Information)
  * Robotics:
     * Deep Reinforcement Learning
  * Artificial General Intelligence: [MITCourse](https://agi.mit.edu/)
+ * [Transfer Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
 
 ## Machine Learning Libraries and Tools:
 
