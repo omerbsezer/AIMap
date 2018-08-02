@@ -75,6 +75,10 @@ Artificial intelligence is a very broad and evolving field of computer science. 
        * [Skip-gram](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
        * GloVe: Global Vectors for word representation
        * FastText (Enriching Word Vectors with Subword Information)
+    * Speech Recognition - Audio Data:
+      * Deep Speech Recognition:
+        * CTC Cost (Connectionist Temporal Classification)
+      * Trigger Word Detection
  * Robotics:
     * Deep Reinforcement Learning
  * Artificial General Intelligence: [MITCourse](https://agi.mit.edu/)
