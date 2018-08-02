@@ -54,6 +54,7 @@ Artificial intelligence is a very broad and evolving field of computer science. 
        * R-CNN
        * Fast R-CNN
        * Faster R-CNN
+       * Fastest R-CNN
        * YOLO (You look only once)
    * Face Recognition:
        * One Shot Learning
@@ -63,6 +64,10 @@ Artificial intelligence is a very broad and evolving field of computer science. 
     * Neural Style Transfer
  * Sequence Models:
     * Sampling & Sequence Generation
+    * Image Captioning
+    * Machine Translation:
+       * Attention Model
+       * Bleu Score
     * [Natural Language Processing](https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795):
        * [Word Embeddings](https://machinelearningmastery.com/what-are-word-embeddings/)
        * TF-IDF
