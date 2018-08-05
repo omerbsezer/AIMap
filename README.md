@@ -4,7 +4,26 @@ Artificial intelligence is a very broad and evolving field of computer science. 
 
 "AI is the new electricity" Andrew Ng.
 
-## Machine Learning Classification:
+## Classic AI
+* Breadth First Search Algorithm
+* Depth First Search Algorithm
+   * Depth Limited Search Algorithm
+* Best First Greedy Search Algorithm
+* A* Search Algorithm
+* Local Search Algorithms
+* Min-Max Problems
+* Alpha-Beta Pruning
+* Hill Climbing Search
+* Simulated Annealing Search
+* Local Beam Search
+* Evolutionary Algorithms
+    * Genetic Algorithms
+    * Ant colony optimization 
+    * Artificial bee colony algorithm
+    * Particle swarm optimization
+    * Bees algorithm
+
+## Machine Learning Classification (Modern AI):
 * Supervised Learning
   * Regression
   * Support Vector Machines
@@ -38,14 +57,16 @@ Artificial intelligence is a very broad and evolving field of computer science. 
      * Expectation–Maximization (EM) Clustering using Gaussian Mixture Models (GMM)
      * Agglomerative Hierarchical Clustering
   * Self Organizing Maps
-  * Generative adversarial networks (GANs)
  * Reinforcement Learning
      * Q-Learning
      * Value-Based
      * Policy-Based
      * Model-Based
      * Deep Reinforcement Learning: [BerkeleyDeepRLBootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
-
+ * Generative Modelling
+     * Generative adversarial networks (GANs)
+     * Variational Auto-Encoders
+     * Deep Energy Models
 ## Machine Learning Algorithms:
 
 * Computer Vision:
