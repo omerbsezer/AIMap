@@ -61,7 +61,7 @@ Artificial intelligence is a very broad and evolving field of computer science. 
        * Siamese Network
        * FaceNet
        * DeepFace
-    * Neural Style Transfer
+    * Neural Style Transfer: [Example Implemantation](https://github.com/omerbsezer/NeuralStyleTransfer)
  * Sequence Models:
     * Sampling & Sequence Generation
     * Image Captioning
