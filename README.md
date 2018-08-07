@@ -57,6 +57,10 @@ Artificial intelligence is a very broad and evolving field of computer science. 
      * Expectation–Maximization (EM) Clustering using Gaussian Mixture Models (GMM)
      * Agglomerative Hierarchical Clustering
   * Self Organizing Maps
+  * Transforming 
+     * Principal Component Analysis(PCA)
+     * Restricted Boltzmann Machines
+     * Autoencoders
  * Reinforcement Learning
      * Q-Learning
      * Value-Based
