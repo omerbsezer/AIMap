@@ -62,16 +62,29 @@ Artificial intelligence is a very broad and evolving field of computer science. 
      * Restricted Boltzmann Machines
      * Autoencoders
  * Reinforcement Learning
-     * Multi-Arm Bandit Problems
+     * Multi-Armed Bandit Problems
        * Explore-Exploitation Dilemma
           * Epsilon-greedy
           * Optimistic Initial Values
           * UCB1
           * Thomson Sampling
-     * Q-Learning
-     * Value-Based
-     * Policy-Based
+     * Markov Decision Process
+          * Value Function
+          * Bellman Equation
+          * Optimal Policy and Optimal Value Function
+     * Dynamic Programming
+          * Policy Iteration
+          * Value Iteration
+     * Monte Carlo
+          * Policy Evaluation
+          * Code
+     * Temporal Difference Learning
+          * SARSA
+          * Q-Learning
+     * Approximation Methods
+     * Policy Gradient
      * Model-Based
+     * [Proximal Policy Optimization (PPO)](https://blog.openai.com/openai-baselines-ppo/)
      * Deep Reinforcement Learning: [BerkeleyDeepRLBootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
  * Generative Modelling
      * Generative adversarial networks (GANs)
