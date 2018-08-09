@@ -62,6 +62,12 @@ Artificial intelligence is a very broad and evolving field of computer science. 
      * Restricted Boltzmann Machines
      * Autoencoders
  * Reinforcement Learning
+     * Multi-Arm Bandit Problems
+       * Explore-Exploitation Dilemma
+          * Epsilon-greedy
+          * Optimistic Initial Values
+          * UCB1
+          * Thomson Sampling
      * Q-Learning
      * Value-Based
      * Policy-Based
