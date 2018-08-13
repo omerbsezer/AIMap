@@ -25,9 +25,10 @@ Artificial intelligence is a very broad and evolving field of computer science. 
 
 ## Machine Learning Classification (Modern AI):
 * Supervised Learning
-  * Regression
-  * Support Vector Machines
-  * Decision Trees
+  * Linear Regression
+  * Logistic Regression
+  * Support Vector Machine
+  * Decision Tree
   * K Nearest Neighbour
   * Naive Bayes Classifiers
   * Boosting
@@ -57,7 +58,7 @@ Artificial intelligence is a very broad and evolving field of computer science. 
      * Expectation–Maximization (EM) Clustering using Gaussian Mixture Models (GMM)
      * Agglomerative Hierarchical Clustering
   * Self Organizing Maps
-  * Transforming 
+  * Transforming / Dimension Reduction 
      * Principal Component Analysis(PCA)
      * Restricted Boltzmann Machines
      * Autoencoders
@@ -127,6 +128,7 @@ Artificial intelligence is a very broad and evolving field of computer science. 
     * Deep Reinforcement Learning
  * Artificial General Intelligence: [MITCourse](https://agi.mit.edu/)
  * [Transfer Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
+ * Meta-Learning
 
 ## Machine Learning Libraries and Tools:
 
